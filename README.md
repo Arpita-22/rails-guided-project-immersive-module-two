@@ -10,7 +10,7 @@ Your task is to create a Rails app with full CRUD functionality.  The domain wil
 
 This reading will provide details on how to best proceed with this task. Following the order of the steps as listed here will make it easier to go from `rails new` to a functioning application. There are many options and possibilities to extend and customize this project.  The best way to get to that point is to get a solidly functioning app up and running as soon as possible.
 
-Note that there are **no tests**.  Your goal is to use Behavior Driven Development to confirm that your code is doing what it should.  This means instead of running `rspec` or `learn` you should be running your code frequently:  Open up the `rails console` and confirm that your methods and associations work, run a local server with `rails server` and see that your app has the desired behavior.
+Note that there are **no tests**.  Your goal is to use Behavior Driven Development to confirm that your code is doing what it should.  This means instead of running `rspec` or `learn test` you should be running your code frequently:  Open up the `rails console` and confirm that your methods and associations work, run a local server with `rails server` and see that your app has the desired behavior.
 
 ## Overview
 
